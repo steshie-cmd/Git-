@@ -1,1 +1,3 @@
-Hello Ruby. I love coding and I am learning about Git and Github today!
+Hello Ruby. 
+
+I love coding and I am learning about Git and Github today!

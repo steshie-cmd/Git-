@@ -1,3 +1,5 @@
 # Git-
-My first Github repo!
+
+My first Github repository!
+
 Hello Odin!
